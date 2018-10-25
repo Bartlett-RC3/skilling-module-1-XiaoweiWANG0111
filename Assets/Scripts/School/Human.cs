@@ -1,4 +1,9 @@
-﻿// Refrences
+﻿namespace MyNamespace
+{
+    
+
+}
+// Refrences
 
 // Class Definition
 // Scope -- Type -- Name
