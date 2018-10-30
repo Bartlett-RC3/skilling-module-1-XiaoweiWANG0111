@@ -15,7 +15,7 @@ public class Session4_Raycasting : MonoBehaviour {
 	{
 
 	    Vector3 castedRayDirection = transform.TransformDirection(Vector3.forward);
-	        .
+
 	    
 	    RaycastHit objectInFront;
 
